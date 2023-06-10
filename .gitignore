@@ -36,7 +36,7 @@
 /var/config/reports.php
 
 
-/public/var/
+/public/var/*
 !/public/var/assets
 /public/sitemap*.xml
 
